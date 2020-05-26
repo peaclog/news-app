@@ -1,2 +1,2 @@
 # news-app
-a simple news app using NuxtJS + VuetifyJS
+A simple news app using NuxtJS + VuetifyJS
